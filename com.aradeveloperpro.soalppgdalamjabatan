@@ -5,7 +5,7 @@
 // pastikan mode offline mp3 true jika merubah ke mode mp3
 // https://kabinetdeveloperexample.blogspot.com/2020/12/optimasi-blogger.html
 
-"HOMEURL" : "https://kabinetdeveloperexample.blogspot.com/2020/12/optimasi-blogger.html",
+"HOMEURL" : "https://ppg-aradeveloper.blogspot.com/p/sitemap.html",
 
 // testing server json yang dipakai
 "JSON_POPUP_WAIT" : "Server Ready . . . v20j14",
@@ -16,7 +16,7 @@
 
 // main ads ke backup ads 
 "MODE_BACKUP_ADS" : true,
-"MODE_NO_ADS" : false,
+"MODE_NO_ADS" : true,
 "MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : false,
 
 //     mode pengaturan iklan
@@ -63,7 +63,7 @@
 "APPLOVIN_BANNER_MAX_ID" : "71f5faf4df08917c",
 "APPLOVIN_INTERSTITIAL_MAX_ID" : "4711e1718612d7dc",
 
-"BUTTON_START" : "START",
+"BUTTON_START" : "Bocoran PPG",
 "BUTTON_SHARE" : "SHARE TO FRIEND",
 "BUTTON_RATING" : "RATING NOW",
 
