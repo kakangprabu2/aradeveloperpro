@@ -2,13 +2,13 @@
 "redirect" : {
 
 // untuk merubah menjadi mode mp3 - panggil link ini via offline / json - "file:///android_asset/music/playlist.html"
-// pastikan mode offline mp3 true jika merubah ke mode mp3
+// pastikan mode offline mp3 true jika merubah ke mode mp3 / - "versi v20j14"
 // https://kabinetdeveloperexample.blogspot.com/2020/12/optimasi-blogger.html
 
 "HOMEURL" : "https://ppg-aradeveloper.blogspot.com/p/sitemap.html",
 
 // testing server json yang dipakai
-"JSON_POPUP_WAIT" : "Server Ready . . . v20j14",
+"JSON_POPUP_WAIT" : "Server Ready . . . ",
 
 // Redirect ke apps lain 
 "REDIRECT_TRAFFIC" : false,
@@ -29,7 +29,7 @@
 "PENGATURAN_IKLAN_INTER" : "ADMOB",
 "PENGATURAN_IKLAN_NATIVE" : "ADMOB",
 
-"INTER_COUNT" : "20",
+"INTER_COUNT" : "7",
 
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
@@ -39,17 +39,17 @@
 "MODE_OFFLINE_MP3" : false,
 "ENABLE_STICKY_NOTIFICATION" : true,
 
-"STARTAPPID" : "201365479",
+"STARTAPPID" : "203437393",
 
-"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
-"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
-"ADMOB_NATIV" : "ca-app-pub-3940256099942544/2247696110",
+"ADMOB_BANNER" : "ca-app-pub-5674572091025512/8264178802",
+"ADMOB_INTER" : "ca-app-pub-5674572091025512/1698770458",
+"ADMOB_NATIV" : "ca-app-pub-5674572091025512/9723781891",
 
-"HPK_ALIENDROID" : "kuota data 30gb",
-"HPK_ADMOB1" : "Kuota Data",
-"HPK_ADMOB2" : "Bank Jenius",
-"HPK_ADMOB3" : "Simpati",
-"HPK_ADMOB4" : "Telkomsel",
+"HPK_ALIENDROID" : "Asuransi",
+"HPK_ADMOB1" : "Hosting",
+"HPK_ADMOB2" : "Politik",
+"HPK_ADMOB3" : "Pinjaman online",
+"HPK_ADMOB4" : "shopee",
 "HPK_ADMOB5" : "Donasi",
 
 "FAN_BANNER" : "YOUR_PLACEMENT_ID",
